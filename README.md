@@ -1,4 +1,4 @@
-# Rapidly Exploring Random Tree Planner
+# Input Sampling Scheme for a Differential Drive Robot
 
 ## Table of Contents
 - [Project Description](#project-description)
