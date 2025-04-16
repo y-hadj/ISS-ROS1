@@ -1,12 +1,5 @@
 # Input Sampling Scheme for a Differential Drive Robot
 
-## Table of Contents
-- [Project Description](#project-description)
-- [Project Files](#project-files)
-- [Additional Resources](#additional-resources)
-
-
-## Project Description
 This repository presents a package containing an Input Sampling Scheme Algorithm applied to a Two-Wheeled Differential Drive Robot in a Static Environment.
 The robot's vision is derived from a Lidar's data, and the static environment is represented by a hospital floor.
 
